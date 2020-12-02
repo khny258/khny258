@@ -8,5 +8,3 @@ Full Stack Developer leveraging my 10+ years of experience in the finance indust
 
 ![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=khny258&theme=onedark&show_icons=true) 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khny258)
